@@ -1,11 +1,11 @@
 <p id="top" align="center">
-  <a href="https://money-manager.me" target="_blank">
+  <a href="" target="_blank">
     <img src="static/admin/folder/images/logo-money-manager.png" alt="Logo" width="300" height="100">
   </a>
 </p>
 
 <h1 align="center" class="dotted">
-    <a href="https://money-manager.me" target="_blank">Money Manager</a>
+    <a href="https://money-manager.me" target="_blank">Optimum Finance</a>
 </h1>
 
 <br>

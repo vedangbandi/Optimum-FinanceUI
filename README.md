@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center" class="dotted">
-    <a href="https://money-manager.me" target="_blank">Optimum Finance</a>
+    <a href="" target="_blank">Optimum Finance</a>
 </h1>
 
 <br>

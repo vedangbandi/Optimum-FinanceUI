@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Vercel-181717?logo=vercel&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=for-the-badge" />
-<a href="https://github.com/PrathmeshSoni">
+<a href="https://github.com/vedangbandi/Optimum-Finance">
 
 </a> 
 
@@ -28,11 +28,9 @@
 
 Welcome to Money Manager, your digital financial assistant! Streamline personal finance easily using Django and MySQL for effective budgeting and expense tracking.
 
-# Live Demo 👇:
 
-<a href="https://money-manager.me" target="_blank">money-manager.me</a>
 
-<br>
+
 
 
 ## Table Of Contents :
@@ -172,9 +170,9 @@ The repository is a starting point for most of my professional projects; for thi
 </p>
 
 <p style="text-align:right;" align="right">
-  <a href="https://github.com/PrathmeshSoni/Money-Management" target="_blank">Back To Repository</a>
+  <a href="https://github.com/vedangbandi/Optimum-Finance" target="_blank">Back To Repository</a>
 </p>
 
 
 ---
-**<a href="https://money-manager.me" target="_blank">Money Manager</a>** - Provided by **<a href="https://prathmeshsoni.works" target="_blank">Prathmesh Soni</a>**
+

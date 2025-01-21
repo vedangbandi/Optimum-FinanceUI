@@ -26,7 +26,7 @@
 
 </p>
 
-Welcome to Money Manager, your digital financial assistant! Streamline personal finance easily using Django and MySQL for effective budgeting and expense tracking.
+Welcome to Optimum Finance, your digital financial assistant! Streamline personal finance easily using Django and MySQL for effective budgeting and expense tracking.
 
 
 
@@ -43,14 +43,14 @@ Welcome to Money Manager, your digital financial assistant! Streamline personal 
   * [Installation](#installation)
 * [Credentials](#Default-Credentials)
 * [Screenshots, Demo Video](#Screenshots)
-* [Connect Me](#Connect-with-me-at)
+* 
 
 
 ## About The Project
 
 ![Screen Shot](static/admin/folder/images/pretty-snap-25-09-2023.png)
 
-Welcome to Money Manager, a streamlined web application designed to simplify personal finance management. Built with Django and MySQL, this full-stack tool empowers users with effective budgeting and expense-tracking capabilities, providing a comprehensive view of financial health.
+Welcome to Optimum Finance, a streamlined web application designed to simplify personal finance management. Built with Django and MySQL, this full-stack tool empowers users with effective budgeting and expense-tracking capabilities, providing a comprehensive view of financial health.
 
 
 ## Technologies Used

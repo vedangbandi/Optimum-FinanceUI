@@ -152,7 +152,7 @@ Visit [`http://127.0.0.1:8000`](http://localhost:8000) in your browser. The app 
 
 Demo Video 👇:
 
-https://github.com/prathmeshsoni/Money-Management/assets/78293392/36d7c633-c1f5-4a1d-8e54-15736b647b1d
+<https://github.com/prathmeshsoni/Money-Management/assets/78293392/36d7c633-c1f5-4a1d-8e54-15736b647b1d>
 
 
 <br />
